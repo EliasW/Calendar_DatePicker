@@ -1,6 +1,6 @@
 # Calendar_DatePicker
 
-It's a we develop a QlikSense object Calendar done with jquery library and css. there are two variables, that are changed the value everytime you select a date.
+We develop a QlikSense object Calendar done with jquery library and css. there are two variables for the dates From and To, that are changed the value everytime you select a date.
 
 <p align="left">
   <img src="https://github.com/EliasW/Calendar_DatePicker/blob/master/preview.png" width="350"/>
