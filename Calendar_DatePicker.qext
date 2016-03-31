@@ -1,0 +1,16 @@
+{
+	"name": "Calendar_DatePicker",
+	"description": "QlikSense Extension for datetime picker From and To",
+	"icon": "extension",
+	"preview": "preview.png",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "Algol Consulting srl",
+	"homepage": "www.algolconsulting.com",
+	"keywords": "qlik-sense, visualization",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}
