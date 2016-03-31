@@ -2,6 +2,10 @@
 
 It's a we develop a QlikSense object Calendar done with jquery library and css. there are two variables, that are changed the value everytime you select a date.
 
+<p align="left">
+  <img src="https://github.com/EliasW/Calendar_DatePicker/blob/master/preview.png" width="350"/>
+</p>
+
 How to use:
 
 1. For QlikSense Desktop: put the project into the directory Documents/Qlik/Sense/Extensions
