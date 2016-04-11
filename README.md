@@ -13,3 +13,5 @@ How to use:
 3. Set two variables, the first one to be used as 'From variable' i.e initial date, and the second variable to be used as 'To Variable' i.e the final date, these variables can be used for calculating time range in your QlikSense app
 
 N.B: the 'To' should be greater than or equal to 'From' variable.
+
+Visit http://algolconsulting.com/ 
