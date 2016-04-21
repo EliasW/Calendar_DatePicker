@@ -14,4 +14,4 @@ How to use:
 
 N.B: the 'To' should be greater than or equal to 'From' variable.
 
-Visit http://algolconsulting.com/ 
+Visit www.algolconsulting.com
