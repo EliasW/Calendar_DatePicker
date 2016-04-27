@@ -69,16 +69,17 @@ function (qlik) {
 				var valTo = document.getElementById('datepicker2').value;
 				var valFrom = document.getElementById('datepicker1').value;
 				
-				if(valTo >= valFrom){				
+			//	if(valTo >= valFrom){				
 				  qlik.currApp(t).variable.setContent(layout.variableTo, valTo);
 				  layout.variableValue2 = valTo;	
-				}
+			/*	}
 				else
 				{
 				  var errTo = "dateError"
 				  qlik.currApp(t).variable.setContent(layout.variableTo, errTo);
 				  document.getElementById('datepicker2').value = errTo;
 				}
+				*/
 			})
 		
 			$('.datepick').each(function(){
