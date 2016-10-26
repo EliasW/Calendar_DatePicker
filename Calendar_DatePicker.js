@@ -84,7 +84,7 @@ function (qlik) {
 		
 			$('.datepick').each(function(){
    			 $(this).datepicker({
-  					dateFormat: "dd/mm/yyyy"
+  					dateFormat: "dd/mm/yy"
 				});
 			
 			});	
